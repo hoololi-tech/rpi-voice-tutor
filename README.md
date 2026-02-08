@@ -2,6 +2,8 @@
 
 A voice-based English learning assistant that runs on Raspberry Pi with Sense HAT. Practice conversations in different contexts with an AI tutor.
 
+![description](raspberry-pi-tutor.jpg)
+
 ## Features
 
 - Voice interaction using push-to-talk (Sense HAT joystick)
