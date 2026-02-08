@@ -12,7 +12,7 @@ A voice-based English learning assistant that runs on Raspberry Pi with Sense HA
 
 ## Hardware Requirements
 
-- Raspberry Pi (tested on Pi 4)
+- Raspberry Pi (tested on Pi 5)
 - Sense HAT
 - USB microphone/headset
 - Speaker or headphones
