@@ -28,6 +28,10 @@ pip install -r requirements.txt
 ```bash
 sudo apt install mpg123
 ```
+**Note:** If using a virtual environment, create it with `--system-site-packages` to access Sense HAT libraries:
+```bash
+python3 -m venv venv --system-site-packages
+```
 4. Create a `.env` file with your API keys:
 ```bash
 OPENAI_API_KEY=your_key_here OPENROUTER_API_KEY=your_key_here
