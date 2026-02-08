@@ -1,0 +1,5 @@
+pyaudio
+python-dotenv
+sense-hat
+openai
+requests
